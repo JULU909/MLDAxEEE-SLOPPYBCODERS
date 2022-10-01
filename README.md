@@ -13,7 +13,7 @@ Project for Rashie's Hackathon
 | David Tey  |    Member     |@|
 | Preetish |       Member        |@|
 | WeeHUNG |       Member       |@|
-| Yonghui |           member|@|
+| KhooYongHui |           member|@|
 | Harish |       Member        |@| -->
 
 
