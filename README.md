@@ -2,7 +2,7 @@
 Code for our machine learning algorithm in rashie's hackathon
 
 
-![landing](./team.jpg)
+![landing](./Assets/team.jpg)
 
 Project for Rashie's Hackathon
 
