@@ -11,7 +11,7 @@ with our Machine learning models to predict Solar energy output and total energy
 ## Rationale
 <br>
 A vital fight any smart nation has to battle is the effective use of renewable energy while reducing tranditional
-methods. Some of the largest costs in the energy industry rise from ineffective usage of storage and overproduction of power.
+methods of energy production. Some of the largest costs in the energy industry rise from ineffective usage of storage and overproduction of power.
 With our project, we can predict the required required enegy, essentially solving several issues. This also allows for the automisation
 of energy production to a larger degree than today.
 <br>
