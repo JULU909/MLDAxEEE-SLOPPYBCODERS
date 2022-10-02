@@ -8,14 +8,14 @@ This project has a hardware compnent that is primarily focused on gathering envi
 Project for Rashie's Hackathon
 
 🧠 The Team
-| Name              |                     Position                    |GitHub Acount|
-|---|:---:|---|
-| Minze |        Member      |@|
-| David Tey  |    Member     |@|
-| Preetish |       Member        |@|
-| WeeHUNG |      Member       |@|
-| KhooYongHui |  Member|@|
-| Harish |       Member        |@| -->
+| Name                   |GitHub Acount|
+|---|---|
+| Minze |@|
+| David Tey |@|
+| Preetish |@|
+| WeeHUNG |@|
+| KhooYongHui |@|
+| Harish |@| -->
 
 
 ## 📖 References
