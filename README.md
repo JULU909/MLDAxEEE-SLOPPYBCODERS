@@ -7,6 +7,7 @@ This is a Mini Project for MLDAxEEE Hackathon conducted on Oct-2022 from Nanyang
 This project has a hardware compnent that is primarily focused on gathering environmental data
 Project for Rashie's Hackathon
 
+
 🧠 The Team
 | Name                   |GitHub Acount|
 |---|---|
@@ -18,7 +19,9 @@ Project for Rashie's Hackathon
 | Harish |@| -->
 
 
+
 ## 📖 References
+
 
 ### Datasets
 
