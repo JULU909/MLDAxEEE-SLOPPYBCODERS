@@ -20,14 +20,13 @@ of energy production to a larger degree than today.
 
 ## Our Hardware prototype : 
 
-<br>
-![landing](./Assets/prototype.jpg)
+![landing](Assets/prototype.jpg)
 <br>
 
 
 
 ## 🧠 The Team
-<br>
+
 | Name                   |GitHub Acount|
 |---|---|
 | Minze |@min-ze|
