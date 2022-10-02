@@ -1,13 +1,33 @@
 # MLDAxEEE-SLOPPYBCODERS
+Project for Rashie's Hackathon.
 
 
 ## About
 
 This is a mini-project for MLDAxEEE Hackathon conducted on Oct-2022 from Nanyang Technological University.
-This project has a hardware component that is primarily focused on gathering environmental data
-Project for Rashie's Hackathon.
+This project has a hardware component that is primarily focused on gathering environmental data which is run
+with our Machine learning models to predict Solar energy output and total energy required.
 
-🧠 The Team
+## Rationale
+<br>
+A vital fight any smart nation has to battle is the effective use of renewable energy while reducing tranditional
+methods. Some of the largest costs in the energy industry rise from ineffective usage of storage and overproduction of power.
+With our project, we can predict the required required enegy, essentially solving several issues. This also allows for the automisation
+of energy production to a larger degree than today.
+<br>
+
+
+
+## Our Hardware prototype : 
+
+<br>
+![landing](./Assets/prototype.jpg)
+<br>
+
+
+
+## 🧠 The Team
+<br>
 | Name                   |GitHub Acount|
 |---|---|
 | Minze |@min-ze|
@@ -16,7 +36,7 @@ Project for Rashie's Hackathon.
 | Wee Hung |@axwhyzee|
 | Khoo Yong Hui |@Beelzebulb|
 | Harish |@JULU909| -->
-
+<br>
 
 ## 📖 References
 
