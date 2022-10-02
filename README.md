@@ -3,43 +3,41 @@
 
 ## About
 
-This is a Mini Project for MLDAxEEE Hackathon conducted on Oct-2022 from Nanyang Technological University.
-This project has a hardware compnent that is primarily focused on gathering environmental data
-Project for Rashie's Hackathon
-
+This is a mini-project for MLDAxEEE Hackathon conducted on Oct-2022 from Nanyang Technological University.
+This project has a hardware component that is primarily focused on gathering environmental data
+Project for Rashie's Hackathon.
 
 🧠 The Team
 | Name                   |GitHub Acount|
 |---|---|
-| Minze |@|
-| David Tey |@|
-| Preetish |@|
-| WeeHUNG |@|
-| KhooYongHui |@|
-| Harish |@| -->
-
+| Minze |@min-ze|
+| David Tey |@davidtey|
+| Preetish |@preetish246|
+| Wee Hung |@axwhyzee|
+| Khoo Yong Hui |@Beelzebulb|
+| Harish |@JULU909| -->
 
 
 ## 📖 References
 
-
 ### Datasets
 
-SOLAR POWER
-———————
-[Data] https://www.kaggle.com/datasets/saurabhshahane/northern-hemisphere-horizontal-photovoltaic
-[Research] https://www.researchgate.net/publication/341511536_Machine_Learning_Modeling_of_Horizontal_Photovoltaics_Using_Weather_and_Location_Data
-[Code] https://towardsdatascience.com/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f
+SOLAR POWER <br>
+——————— <br>
+[Data] <br> https://www.kaggle.com/datasets/saurabhshahane/northern-hemisphere-horizontal-photovoltaic <br>
+[Research]<br> https://www.researchgate.net/publication/341511536_Machine_Learning_Modeling_of_Horizontal_Photovoltaics_Using_Weather_and_Location_Data <br>
+
+<hr>
+ENERGY DEMAND <br>
+————————- <br>
+[Data] <br> 
+https://www.kaggle.com/competitions/ashrae-energy-prediction/data <br>
 
 
-ENERGY DEMAND 
-————————-
-[Data] https://www.kaggle.com/competitions/ashrae-energy-prediction/data
-[Code] https://towardsdatascience.com/forecasting-energy-consumption-using-neural-networks-xgboost-2032b6e6f7e2
-
-### Description
-
-
-Seeing is believing :
+<br>
+<br>
+#Seeingisbelieving :
+<br>
+<br>
  
 ![landing](./Assets/team.jpg)
