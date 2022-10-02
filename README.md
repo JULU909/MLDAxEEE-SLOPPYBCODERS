@@ -52,10 +52,14 @@ ENERGY DEMAND <br>
 [Data] <br> 
 https://www.kaggle.com/competitions/ashrae-energy-prediction/data <br>
 
+## Our Machine Learning models : 
 
 <br>
+This is the software side of our project. We used MPLRegressor to predict Solar power generated based on the environmental data gathered . We have a secondary model using DecisionTreeRegressor to predict energy requried for a specific population. This allows us to dynamically change the amount of fossil fuels and other traditional methods' usage. We use real time data and feed it to the first model to get the amount of energy we need to compensate for.
 <br>
-#Seeingisbelieving :
+
+
+## Seeingisbelieving :
 <br>
 <br>
  
